@@ -1,4 +1,4 @@
-# Download DFA Recurring Reports Easily
+# Download DFA / DCM Recurring Reports Easily
 This is a very simple way to download DFA reports. No runtime options, few dependencies, just raw download power.
 
 1 - set up a (recurring) report on your DFA dashboard

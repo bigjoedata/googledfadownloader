@@ -1,3 +1,6 @@
+#!/usr/bin/python
+#Based on https://github.com/googleads/googleads-dfa-reporting-samples/blob/master/python/v3_3/get_report_files.py
+
 import config
 from datetime import datetime, timedelta
 import httplib2 as lib2
